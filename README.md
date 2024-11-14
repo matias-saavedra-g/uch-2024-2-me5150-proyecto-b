@@ -50,6 +50,6 @@ Para trabajar de manera sincrónica en las tareas, se recomienda utilizar Google
 # Integrantes
 
 - Diego Antinao C.
-- Felipe Farías O.
+- Felipe Paulangelo R.
+- Germán Oteíza Vargas
 - Matías Ignacio Saavedra Guerra
-- Nazarena Águila M.
