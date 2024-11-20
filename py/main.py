@@ -127,6 +127,7 @@ def get_next_pose(img):
     global position_omni   # Posición del robot en metros [x, y]
     global theta_omni # Orientación del robot en radianes [theta]
     global rz
+    global FINISH
     
     # Inicializar variables
     action = [0, 0, 0] # Acción por defecto
